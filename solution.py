@@ -1,3 +1,8 @@
+'''
+Submission for AIND first assignment -- Sudoku
+Submission By: Hitesh Parashar
+'''
+
 # Utils <Start>
 
 rows = 'ABCDEFGHI'

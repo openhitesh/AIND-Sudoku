@@ -1,5 +1,6 @@
 # Artificial Intelligence Nanodegree
-## Introductory Project: Diagonal Sudoku Solver
+## Introductory Project: Diagonal Sudoku Solver -- Submission by Hitesh Parashar
+
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
